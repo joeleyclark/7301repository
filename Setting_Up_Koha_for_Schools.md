@@ -15,6 +15,7 @@ In the top section of the spreadsheet, delete the lines with the tags:
 + 090
 + 099
 <img width="1410" height="734" alt="Screenshot 2026-03-12 at 2 31 59 PM 1" src="https://github.com/user-attachments/assets/6ec6045a-fd46-49c4-8ea7-c9115c61aca0" />
+
 In the bottom section of the spreadsheet, repeat that step again. Delete all lines with the tags:
 + 010
 + 050
