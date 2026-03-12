@@ -38,3 +38,7 @@ In the bottom section of the spreadsheet, enter "5" in the hidden column for the
 + 952 - only change 2, b, e, f, i, j, l, m, n, q, r, s, u, v, w, y
 <img width="1912" height="484" alt="Screenshot 2026-03-12 at 2 55 54 PM" src="https://github.com/user-attachments/assets/6c28d6f0-9a05-4088-9b92-4ebc8e40487e" />
 
+Now, we have to re-import the framework we have edited. Go back to the *MARC bibliographic framework* page. Click on actions again, but this time click *import*
+<img width="1972" height="710" alt="Screenshot 2026-03-12 at 3 03 29 PM" src="https://github.com/user-attachments/assets/c7d57eff-990b-41fc-87bc-d2d2e053fdf3" />
+Select your updated CSV file and import it.
+
