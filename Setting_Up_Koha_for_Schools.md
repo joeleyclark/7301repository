@@ -22,7 +22,8 @@ In the bottom section of the spreadsheet, repeat that step again. Delete all lin
 + 090
 + 099
 <img width="830" height="111<img width="624" height="740" alt="Screenshot 2026-03-12 at 2 44 43 PM" src="https://github.com/user-attachments/assets/d6c9a055-57d0-4a78-9b90-9ee600b4fc03" />
-6" alt="Screenshot 2026-03-12 at 2 40 44 PM" src="https://github.com/user-attachments/assets/719ee40b-4faf-455d-84c4-e3b5aadb3668" /> 
+6" alt="Screenshot 2026-03-12 at 2 40 44 PM" src="https://github.com/user-attachments/assets/719ee40b-4faf-455d-84c4-e3b5aadb3668" />
+
 In the bottom section of the spreadsheet, enter "5" in the hidden column for these tags:
 + 020 - all except sub-field a
 + 022 - all except sub-field a
