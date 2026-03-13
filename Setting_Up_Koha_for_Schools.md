@@ -85,7 +85,7 @@ Click on the drop down arrow with the "new record" button and click on "fast add
 Fill in the 000, 008, 020, 245, and 942 lines, and then click save. To fill in line 000 and 008, just click on the box and it will autofill.
 <img width="1291" height="615" alt="Screenshot 2026-03-12 at 7 22 22 PM" src="https://github.com/user-attachments/assets/295cf5c5-98fb-441c-bd8d-e6e41bef0a37" />
 
-After saving the record, a new page will automatically come up to add the item to the collection. Fill in line 8, c, o, and p. Line p will autofill when the box is clicked. For call number, in this case we are adding a fiction book, so the call number is "F DAR" F for fiction and DAR for the first 3 letters of the author's last name. Once those lines are filled in, click "add item"
+After saving the record, a new page will automatically come up to add the item to the collection. Fill in line 8, c, o, and p. Line p will autofill when the box is clicked. In this case we are adding a fiction book, so the call number is "F DAR" F for fiction and DAR for the first 3 letters of the author's last name. Once those lines are filled in, click "add item"
 <img width="1071" height="530" alt="Screenshot 2026-03-12 at 7 52 47 PM" src="https://github.com/user-attachments/assets/e2741ebc-d5de-4941-9691-362bc8996fb4" />
 
 Now you can add as many items as you want!
