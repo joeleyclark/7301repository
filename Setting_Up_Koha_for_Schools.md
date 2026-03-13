@@ -42,3 +42,32 @@ Now, we have to re-import the framework we have edited. Go back to the *MARC bib
 <img width="1972" height="710" alt="Screenshot 2026-03-12 at 3 03 29 PM" src="https://github.com/user-attachments/assets/c7d57eff-990b-41fc-87bc-d2d2e053fdf3" />
 Select your updated CSV file and import it.
 
+## Basic Settings
+In this section we will update the types of items in the library.
+
+Open the *Koha administration* page. From there navigate to *basic parameters* and then *item types*
+<img width="962" height="458" alt="Screenshot 2026-03-12 at 6 49 20 PM" src="https://github.com/user-attachments/assets/333c58ec-aa43-470e-a6b2-03367af2ea54" />
+
+"Book" should already be entered into the table from following the instructions when installing Koha. To add additional item types click on "new item type"
+<img width="932" height="846" alt="Screenshot 2026-03-12 at 6 52 04 PM" src="https://github.com/user-attachments/assets/87c24178-eafb-4980-b59a-d1ec767033be" />
+
+After adding the item types you want we now need to add patron categories. From the *Koha administration* page navigate to the *patron categories* page.
+<img width="942" height="374" alt="Screenshot 2026-03-12 at 6 57 28 PM" src="https://github.com/user-attachments/assets/73c4c127-8a9a-48c3-9272-0aacb5b81e51" />
+
+### Patron Categories
+Add these groups to the patron categories:
+1. Students (ST)
+  - Set the enrollment period to 120 months
+  - Set the category type to "child"
+2. Parents (P)
+  - Set the enrollment period to 120 months
+  - Set the category type to "adult"
+Note: The "new category" button is in the same place as the "new item type" button in the step before.
+
+### Authorized Values
+
+
+
+
+
+
