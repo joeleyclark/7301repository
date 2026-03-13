@@ -88,7 +88,7 @@ Fill in the 000, 008, 020, 245, and 942 lines, and then click save. To fill in l
 After saving the record, a new page will automatically come up to add the item to the collection. Fill in line 8, c, o, and p. Line p will autofill when the box is clicked. In this case we are adding a fiction book, so the call number is "F DAR" F for fiction and DAR for the first 3 letters of the author's last name. Once those lines are filled in, click "add item"
 <img width="1071" height="530" alt="Screenshot 2026-03-12 at 7 52 47 PM" src="https://github.com/user-attachments/assets/e2741ebc-d5de-4941-9691-362bc8996fb4" />
 
-Now you can add as many items as you want!
+Now you can add as many items as you want and Koha is set up for a school library!
 
 
 
