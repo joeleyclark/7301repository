@@ -48,7 +48,7 @@ In this section we will update the types of items in the library.
 Open the *Koha administration* page. From there navigate to *basic parameters* and then *item types*
 <img width="962" height="458" alt="Screenshot 2026-03-12 at 6 49 20 PM" src="https://github.com/user-attachments/assets/333c58ec-aa43-470e-a6b2-03367af2ea54" />
 
-"Book" should already be entered into the table from following the instructions when installing Koha. To add additional item types click on "new item type"
+"Book" should already be entered into the table from following the instructions when installing Koha. To add additional item types click on "new item type" Some suggestions are DVD (DV) and CD-Audio (CD).
 <img width="932" height="846" alt="Screenshot 2026-03-12 at 6 52 04 PM" src="https://github.com/user-attachments/assets/87c24178-eafb-4980-b59a-d1ec767033be" />
 
 After adding the item types you want we now need to add patron categories. From the *Koha administration* page navigate to the *patron categories* page.
