@@ -70,6 +70,7 @@ First we need to change the barcode parameter. Do this by going to the *Koha adm
 <img width="1080" height="420" alt="Screenshot 2026-03-12 at 7 33 03 PM" src="https://github.com/user-attachments/assets/fc89759d-0604-400f-b089-d0b1eafae4c9" />
 
 Click on the "cataloging" button.
+
 <img width="750" height="520" alt="Screenshot 2026-03-12 at 7 34 21 PM" src="https://github.com/user-attachments/assets/2348ce2c-321c-4bd1-b04c-af1a532a671e" />
 
 Find the "record structure" section. Click on autoBarcode and set it to "incremental EAN-13 barcodes"
