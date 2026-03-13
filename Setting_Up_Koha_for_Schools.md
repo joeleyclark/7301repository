@@ -62,10 +62,32 @@ Add these groups to the patron categories:
 2. Parents (P)
   - Set the enrollment period to 120 months
   - Set the category type to "adult"
+
 Note: The "new category" button is in the same place as the "new item type" button in the step before.
 
-### Authorized Values
+## Cataloging
+First we need to change the barcode parameter. Do this by going to the *Koha adminstration* page. Then click on "system preferences"
+<img width="1080" height="420" alt="Screenshot 2026-03-12 at 7 33 03 PM" src="https://github.com/user-attachments/assets/fc89759d-0604-400f-b089-d0b1eafae4c9" />
 
+Click on the "cataloging" button.
+<img width="750" height="520" alt="Screenshot 2026-03-12 at 7 34 21 PM" src="https://github.com/user-attachments/assets/2348ce2c-321c-4bd1-b04c-af1a532a671e" />
+
+Find the "record structure" section. Click on autoBarcode and set it to "incremental EAN-13 barcodes"
+<img width="1630" height="526" alt="Screenshot 2026-03-12 at 7 36 21 PM" src="https://github.com/user-attachments/assets/a5d78dc6-f80e-4140-a03b-3cfbbbd3664a" />
+
+To add a new book navigate to the *cataloging* page from the home page.
+<img width="2152" height="886" alt="Screenshot 2026-03-12 at 7 13 48 PM" src="https://github.com/user-attachments/assets/8c62a991-ed14-4b99-9ae8-53bcbdfb6e33" />
+
+Click on the drop down arrow with the "new record" button and click on "fast add framework"
+<img width="856" height="478" alt="Screenshot 2026-03-12 at 7 16 25 PM" src="https://github.com/user-attachments/assets/6ec45cb9-ddb7-465e-96bf-aff7a74fd29a" />
+
+Fill in the 000, 008, 020, 245, and 942 lines, and then click save. To fill in line 000 and 008, just click on the box and it will autofill.
+<img width="1291" height="615" alt="Screenshot 2026-03-12 at 7 22 22 PM" src="https://github.com/user-attachments/assets/295cf5c5-98fb-441c-bd8d-e6e41bef0a37" />
+
+After saving the record, a new page will automatically come up to add the item to the collection. Fill in line 8, c, o, and p. Line p will autofill when the box is clicked. For call number, in this case we are adding a fiction book, so the call number is "F DAR" F for fiction and DAR for the first 3 letters of the author's last name. Once those lines are filled in, click "add item"
+<img width="1071" height="530" alt="Screenshot 2026-03-12 at 7 52 47 PM" src="https://github.com/user-attachments/assets/e2741ebc-d5de-4941-9691-362bc8996fb4" />
+
+Now you can add as many items as you want!
 
 
 
